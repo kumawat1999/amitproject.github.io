@@ -1,0 +1,40 @@
+1.  form and its validation in codenighter 
+2.  MVC perrerns and helper, libraray, third party
+3.  file uploddingh core php and framework
+4.  date tables in frameworks and jquery with server side
+5.  ajax with calidation and also with file uploding
+6.  JS and jquery concepts
+7.  Mysql (create update dalete insert join index and theory)
+8.  CI 4 curd operation...
+9.  OOPS concepts ( class object inheritence polyphorism depndacy injection trait interface abstarct type hinting ).
+
+
+
+
+
+
+
+
+1.  ci 4
+	D:\>cd xamppp
+
+	D:\xamppp>cd htdocs
+
+	D:\xamppp\htdocs>cd Amit-project
+
+	D:\xamppp\htdocs\Amit-project>code .
+	
+
+ci4==  run command                      ------------>   php spark serve
+
+ci4== server run command		------------>  localhost:8080/path name
+
+ci4== new file creacted command         ------------> php spark make:controller controllerName
+
+ci4== modal file creat command          ------------> D:\xamppp\htdocs\Amit-project>php spark make:model ModelName
+
+ci4==   .env file me ye command se server par error show hosta hai   -------------> CI_ENVIRONMENT = 'development'
+
+ci4== validation ruls link 		------------>https://codeigniter4.github.io/userguide/libraries/validation.html
+
+

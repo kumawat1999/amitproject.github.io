@@ -1,0 +1,16 @@
+new project setup krna hai ci4 ka 
+
+composer mysql 
+
+project new     ----- Users-management
+
+run on localhost not 8080 
+php spark serve --port 9090 
+
+routes of add users 
+
+Full name, mobile, email, password, confpass, gender, address) with ci4 vadation via form action 
+
+action se validation lagana hai
+
+
